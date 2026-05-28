@@ -30,10 +30,6 @@ export default function Footer() {
               <p className="font-medium text-sm xl:text-base">CONTACT US</p>
               <div className="flex flex-col text-sm font-normal xl:text-base">
                 <span className="flex items-center gap-5 py-1 border-transparent">
-                  <FaPhone />
-                  (021) 3889 3049
-                </span>
-                <span className="flex items-center gap-5 py-1 border-transparent">
                   <MdOutlineEmail />
                   bumimentaricemerlang@gmail.com
                 </span>
